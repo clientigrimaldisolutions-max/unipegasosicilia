@@ -1,3 +1,3 @@
 User-agent: *
 Allow: /
-Sitemap: https://clientigrimaldisolutions-max.github.io/unipegasosicilia/sitemap.xml
+Sitemap: https://www.unipegasosicilia.it/sitemap.xml
